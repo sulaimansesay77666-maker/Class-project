@@ -1,0 +1,58 @@
+Body {
+  background-color: rgb(14, 0, 0);
+  font-family: Times New Roman;
+  color: black;
+}
+header {
+  background-color: rgb(0, 0, 0);
+  color: rgb(244, 9, 9);
+  padding: 10px;
+}
+
+header h1 {
+  font-size: 24px;
+}
+nav a{
+  color: rgb(244, 9, 9);
+}
+
+nav b {
+  color: rgb(244, 9, 9);
+}
+.hero {
+  color: rgb(244, 9, 9);
+  text-align: center;
+}
+.btn-primary {
+  color: rgb(244, 9, 9);
+}
+.card {
+  background-color: white;
+  border: 1px solid gray;
+  padding: 10px;
+  margin: 15px;
+}
+
+.card h3 {
+  color: darkgreen;
+}
+
+.card-tag {
+  background-color: lightgreen;
+  color: black;
+  padding: 2px;
+}
+
+/* Score Box */
+.scoreboard {
+  background-color: #eee;
+  border: 1px solid black;
+  padding: 8px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.score {
+  color: red;
+  font-weight: bold;
+}
